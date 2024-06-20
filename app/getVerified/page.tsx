@@ -13,7 +13,7 @@ export default function GetVerified() {
         height={400}
         alt="logo"
         />
-        <p className='text-center text-md font-light'>Hasn't verified yet? Contact Subzone Coordinator</p>
+        <p className='text-center text-md font-light'>Hasn&apos;t verified yet? Contact Subzone Coordinator</p>
     </div>
     </>
   )
